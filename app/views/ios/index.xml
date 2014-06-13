@@ -1,0 +1,12 @@
+<Alloy>
+	<Collection src="userTypes"/> 
+	<NavigationWindow id="navGroupWin">
+    <Window class="container">
+        <!-- Add TableView and  TableViewRow -->
+        <TableView dataCollection="userTypes">
+            <TableViewRow title="{userType}" userTypeId="{userTypeId}" userType="{userType}" onClick="showTask"></TableViewRow>
+        </TableView>
+    </Window>
+    </NavigationWindow>
+
+</Alloy>

@@ -1,0 +1,9 @@
+<Alloy>
+	<Collection src="userTypes"/> 
+    <Window class="container">
+        <!-- Add TableView and  TableViewRow -->
+        <TableView dataCollection="userTypes">
+            <TableViewRow title="{userType}" userTypeId="{userTypeId}" userType="{userType}" onClick="showTask"></TableViewRow>
+        </TableView>
+    </Window>
+</Alloy>

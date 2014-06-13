@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<View layout='vertical'>
+			<Label id="userType">
+			<Label id="userTypeId">
+		</View>
+	</Window>
+</Alloy>

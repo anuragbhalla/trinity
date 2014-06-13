@@ -1,0 +1,17 @@
+
+".container" : {
+  	backgroundColor: 'white'
+}
+
+"#userType": {
+    font: {
+        fontSize: '30'
+    },
+    left: '10'
+},
+"#userTypeId": {
+    font: {
+        fontSize: '20'
+    },
+    left: '10'
+}
