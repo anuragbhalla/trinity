@@ -6,7 +6,7 @@
     <property name="acs-oauth-secret-development" type="string">9uJjbhRq6wW4yK6lcQ1wClUeylQ9UyE3</property>
     <property name="acs-oauth-key-development" type="string">B2BGedF3bBuTDUjr953uJH8x4yKRZh1P</property>
     <property name="acs-api-key-development" type="string">2qLzDGWl8UGrhx5qctplwYgEHtq0lXPO</property>
-    <id>com.gliderportapps.trinity</id>
+    <id>com.gliderportapps.trinityT</id>
     <name>trinity</name>
     <version>1.0</version>
     <publisher>anuragbhalla</publisher>
@@ -59,7 +59,7 @@
     <deployment-targets>
         <target device="android">true</target>
         <target device="blackberry">false</target>
-        <target device="ipad">true</target>
+        <target device="ipad">false</target>
         <target device="iphone">true</target>
         <target device="mobileweb">false</target>
         <target device="tizen">false</target>
